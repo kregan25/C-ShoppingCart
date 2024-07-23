@@ -1,0 +1,6 @@
+# ninja log v5
+1	183	1669612662682150171	CMakeFiles/FinalProjectShoppingOnline.dir/Utility.cpp.o	91c2d59ee7183b7b
+275	315	1669612662814145220	FinalProjectShoppingOnline	70c0f9e05776b8b0
+1	209	1669612662706149271	CMakeFiles/FinalProjectShoppingOnline.dir/ItemToPurchase.cpp.o	77d6a4bbe9945b29
+0	192	1669612662690149870	CMakeFiles/FinalProjectShoppingOnline.dir/main.cpp.o	82f140145218b982
+1	275	1669612662774146720	CMakeFiles/FinalProjectShoppingOnline.dir/ShoppingCart.cpp.o	516877a9d84ca949
